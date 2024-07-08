@@ -16,7 +16,7 @@ We want to create a multiplayer minigame where two players can grab the blue cub
 
 ## The Goal
 
-The goal of this test is not to create a complex set of mechanics for locomotion or physical interactions. You can make the player grab the cubes in any way you want. We really want to see your way of thinking and approaching the problem. There is no good or bad way to do this - there are many solutions for this challenge. 
+The goal of this test is not to create a complex set of mechanics for locomotion or physical interactions. You can make the player grab the cubes in any way you want. We really want to see your way of thinking and approaching the problem.
 
 In project you will find:
 * ThirdPersonMap - The map where you will implement the above gameplay
