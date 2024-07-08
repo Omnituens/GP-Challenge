@@ -1,0 +1,41 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/onr_b/Desktop/MinigameTest/MinigameTest/Content/ChallengeAssets/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/onr_b/Desktop/MinigameTest/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/AJ/06US1O20NDWR2RN7UCLPGF.uasset",
+				"C:/Users/onr_b/Desktop/MyProject2/Content/ChallengeAssets/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/onr_b/Desktop/MyProject2/Content/ChallengeAssets/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/onr_b/Desktop/MyProject2/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/onr_b/Desktop/MyProject2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/onr_b/Desktop/MyProject2/Content/ChallengeAssets/Input/Actions/IA_Jump.uasset",
+				"C:/Users/onr_b/Desktop/MyProject2/Content/ChallengeAssets/Input/Actions/IA_Look.uasset",
+				"C:/Users/onr_b/Desktop/MyProject2/Content/ChallengeAssets/Input/Actions/IA_Move.uasset",
+				"C:/Users/onr_b/Desktop/MyProject2/Content/ChallengeAssets/Input/IMC_Default.uasset",
+				"C:/Users/onr_b/Desktop/MyProject2/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/onr_b/Desktop/MyProject2/Content/ThirdPerson/Input/Actions/IA_Move.uasset",
+				"C:/Users/onr_b/Desktop/MyProject2/Content/ThirdPerson/Input/Actions/IA_Look.uasset",
+				"C:/Users/onr_b/Desktop/MyProject2/Content/ThirdPerson/Input/Actions/IA_Jump.uasset",
+				"C:/Users/onr_b/Desktop/MyProject2/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/onr_b/Desktop/MyProject2/Content/ChallengeAssets/Blueprints/BP_GoalCollision.uasset",
+				"C:/Users/onr_b/Desktop/MyProject2/Content/ChallengeAssets/Blueprints/BP_Goal.uasset",
+				"C:/Users/onr_b/Desktop/MyProject2/Content/ChallengeAssets/Blueprints/BP_Item.uasset",
+				"C:/Users/onr_b/Desktop/MyProject2/Content/ChallengeAssets/Input/IMC_HoldingItem.uasset",
+				"C:/Users/onr_b/Desktop/MyProject2/Content/ChallengeAssets/Input/Actions/IA_Grab.uasset",
+				"C:/Users/onr_b/Desktop/MyProject2/Content/ChallengeAssets/Input/Actions/IA_Drop.uasset",
+				"C:/Users/onr_b/Desktop/MyProject2/Content/ChallengeAssets/Input/IMC_NoItem.uasset",
+				"C:/Users/onr_b/Desktop/MyProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
+				"C:/Users/onr_b/Desktop/MyProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"C:/Users/onr_b/Desktop/MyProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"C:/Users/onr_b/Desktop/MyProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/0S/C40OX2T2VSJQ2NFQ5IAXQG.uasset",
+				"C:/Users/onr_b/Desktop/MyProject2/Content/ChallengeAssets/Blueprints/BP_GameState.uasset",
+				"C:/Users/onr_b/Desktop/MyProject2/Content/ChallengeAssets/Blueprints/BP_PlayerState.uasset",
+				"C:/Users/onr_b/Desktop/MyProject2/Content/ChallengeAssets/Blueprints/BP_PlayerController.uasset",
+				"C:/Users/onr_b/Desktop/MyProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/AJ/06US1O20NDWR2RN7UCLPGF.uasset"
+			]
+		}
+	]
+}
